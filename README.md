@@ -121,14 +121,20 @@ Created advanced DAX measures including:
 ## 📷 Dashboard Preview
 
 <img width="1278" height="705" alt="image" src="https://github.com/user-attachments/assets/5f176c13-e1d4-48f5-aa44-99cff8b941c5" />
-<img width="1143" height="683" alt="image" src="https://github.com/user-attachments/assets/9c42c951-b724-410a-9a1e-a120a6fee168" />
-<img width="1067" height="597" alt="image" src="https://github.com/user-attachments/assets/5a2bd520-0362-484a-adc7-b9b2a1265ca9" />
-<img width="1005" height="601" alt="image" src="https://github.com/user-attachments/assets/6ced6450-e63e-4bc6-b611-79571b24af14" />
-<img width="998" height="620" alt="image" src="https://github.com/user-attachments/assets/b088e6c9-c772-4663-b7f1-1ffaae145f69" />
-<img width="1053" height="608" alt="image" src="https://github.com/user-attachments/assets/51b59118-6715-4209-b9f5-e68b452d75c3" />
-<img width="930" height="591" alt="image" src="https://github.com/user-attachments/assets/117584c0-4a9e-4db5-a0d1-a9b0662d49bd" />
-<img width="978" height="587" alt="image" src="https://github.com/user-attachments/assets/093062c7-9833-4294-b6cc-425767f5870f" />
 
+<img width="1143" height="683" alt="image" src="https://github.com/user-attachments/assets/9c42c951-b724-410a-9a1e-a120a6fee168" />
+
+<img width="1067" height="597" alt="image" src="https://github.com/user-attachments/assets/5a2bd520-0362-484a-adc7-b9b2a1265ca9" />
+
+<img width="1005" height="601" alt="image" src="https://github.com/user-attachments/assets/6ced6450-e63e-4bc6-b611-79571b24af14" />
+
+<img width="998" height="620" alt="image" src="https://github.com/user-attachments/assets/b088e6c9-c772-4663-b7f1-1ffaae145f69" />
+
+<img width="1053" height="608" alt="image" src="https://github.com/user-attachments/assets/51b59118-6715-4209-b9f5-e68b452d75c3" />
+
+<img width="930" height="591" alt="image" src="https://github.com/user-attachments/assets/117584c0-4a9e-4db5-a0d1-a9b0662d49bd" />
+
+<img width="978" height="587" alt="image" src="https://github.com/user-attachments/assets/093062c7-9833-4294-b6cc-425767f5870f" />
 
 
 ---
